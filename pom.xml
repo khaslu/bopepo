@@ -98,12 +98,12 @@
 		<dependency>
 			<groupId>org.jrimum</groupId>
 			<artifactId>jrimum-domkee</artifactId>
-			<version>1.0.0</version>
+			<version>1.0.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jrimum</groupId>
 			<artifactId>jrimum-texgit</artifactId>
-			<version>1.0.0</version>
+			<version>1.0.1</version>
 		</dependency>
 		<dependency>
 			<groupId>com.lowagie</groupId>
